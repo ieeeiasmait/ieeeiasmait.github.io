@@ -54,14 +54,8 @@ li{
 .about{
 	padding-left: 10px;
 	color: black;
-	text-align: justify;
 }
 
-/* .about-container{
-	background-image: url("./image/about-background.jpg");
-	background-repeat: no-repeat;
-	background-size: cover;
-} */
 
 .background{
 	background-image: url("./image/about-background.jpg");
@@ -70,18 +64,15 @@ li{
 .mission_vision{
 	padding-left: 10px;
 	color: black;
-	text-align: justify;
 }
 
 .wevalue{
 	padding-left: 10px;
-	text-align: justify;
 	color: black;
 	font-size: 20px;
 }
 
 .inauguration{
 	padding-left: 10px;
-	text-align: justify;
 	color: black;
 }
