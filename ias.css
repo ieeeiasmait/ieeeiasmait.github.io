@@ -80,3 +80,28 @@ li{
 .slide-show {
 	width: 576px;
 }
+
+
+
+
+.gallery {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border: 1px ;
+  width: 100%;
+}
+
+/*
+.gallery:hover {
+	border: 1px solid #777;
+
+}
+*/
+
+.gallery img {
+	width: 100%;
+}
+
+.picture:hover{
+	box-shadow: 0 0 2px 8px rgba(0, 140, 186,0.5);
+}
